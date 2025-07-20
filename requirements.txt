@@ -2,3 +2,5 @@ Flask
 openai
 edge-tts
 gunicorn
+python-dotenv
+
